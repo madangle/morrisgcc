@@ -1309,6 +1309,9 @@ textarea.form-control {
 		}
 		.logo{
 			color: $white;
+			img {
+				max-width: 200px;
+			}
 			span{
 				color: $primary;
 			}

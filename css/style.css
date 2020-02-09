@@ -9030,6 +9030,9 @@ textarea.form-control {
       font-weight: 700; }
     .ftco-footer .ftco-footer-widget .logo {
       color: #fff; }
+      .ftco-footer .ftco-footer-widget .logo img{
+        max-width: 200px;
+      }
       .ftco-footer .ftco-footer-widget .logo span {
         color: #fda729; }
     .ftco-footer .ftco-footer-widget ul li a span {
